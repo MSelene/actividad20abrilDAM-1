@@ -10,7 +10,7 @@ public class Calculadora {
 		try {
 			comenzarOperaciones();
 		} catch (InputMismatchException e) {
-			System.out.println("No has introducido correctamente los datos, saliendo de calculadora.");
+			System.out.println("Has cometido un error al introducir los datos, saliendo de calculadora.");
 		}
 			
 			
